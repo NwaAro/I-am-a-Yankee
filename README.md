@@ -1,2 +1,3 @@
 # I-am-a-Yankee
-To be or not to be, that is the question
+Are we to be or not to be, that is the question
+the answer is we are to be
